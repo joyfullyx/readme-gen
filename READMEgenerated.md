@@ -17,17 +17,17 @@ a simple README generator through command line prompts to be able to add to a re
 8. [License](#license)
 
 ## Installation
-npm i
+npm i 
 
 ## Usage
-iniate with node index.js in the terminal
+the application can be initated by typing node index.js to the console, which will render a series of prompts in the console to the user. The user's answers to those prompts will then be generated into the appropriate sections on the README file
 
 ## License
 
 License: MIT
 
 ## Contributing
-Joy 
+Joy Rhee
 
 ## Tests
 not available at this time
