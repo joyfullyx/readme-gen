@@ -21,6 +21,9 @@ Installation of the npm iquirer package is needed. This can be done by npm i in 
 ## Usage
 To use this README generator, user must input node index.js to the console to initiate the generator. 
 
+## Demo 
+Click [here](https://drive.google.com/file/d/16Jawy8qkQH0_jkw69aVuTe3VujaAMFr8/view?usp=sharing) for the full demo video on usage.
+
 ## Questions
 [Github](https://github.com/joyfullyx)
 
